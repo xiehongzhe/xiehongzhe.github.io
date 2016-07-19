@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.xiehongzhe.com/2016/07/19/0719/</loc>
+    
+    <lastmod>2016-07-19T15:31:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.xiehongzhe.com/tags/index.html</loc>
     
     <lastmod>2016-07-19T07:11:26.000Z</lastmod>
@@ -9,23 +16,9 @@
   </url>
   
   <url>
-    <loc>http://www.xiehongzhe.com/2016/07/11/hello-world/</loc>
-    
-    <lastmod>2016-07-19T07:08:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.xiehongzhe.com/categories/index.html</loc>
     
     <lastmod>2016-07-19T06:56:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.xiehongzhe.com/2016/07/19/%E6%B5%8B%E8%AF%952/</loc>
-    
-    <lastmod>2016-07-19T06:44:09.000Z</lastmod>
     
   </url>
   
