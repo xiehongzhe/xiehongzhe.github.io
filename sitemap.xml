@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.xiehongzhe.com/about/index.html</loc>
+    
+    <lastmod>2016-11-10T06:12:03.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.xiehongzhe.com/2012/02/29/2012-02-29/</loc>
     
     <lastmod>2016-10-15T04:39:04.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://www.xiehongzhe.com/categories/index.html</loc>
     
     <lastmod>2016-07-19T06:56:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.xiehongzhe.com/about/index.html</loc>
-    
-    <lastmod>2016-07-19T06:37:23.000Z</lastmod>
     
   </url>
   
